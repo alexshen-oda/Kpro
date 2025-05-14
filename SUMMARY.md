@@ -14,7 +14,7 @@
 * [图片&媒体](basics/images-and-media.md)
 * [交互的模块](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
-* [集成](basics/integrations.md)
+* [集成交互](basics/integrations.md)
 
 ## 专家组
 
